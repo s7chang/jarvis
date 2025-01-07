@@ -1,0 +1,5 @@
+gradio
+openai==1.58.1
+openai-whisper
+python-dotenv
+pygame
